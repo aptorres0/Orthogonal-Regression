@@ -6,4 +6,8 @@
 #### Email: apault1@lsu.edu
 #### Date: 23 JUL 22
 
-##### Technologies Used: The numpy and scipy, python3 modules.
+#### Technologies Used: The numpy and scipy, python3 modules.
+
+#### License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
