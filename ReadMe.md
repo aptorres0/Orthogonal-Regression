@@ -2,7 +2,7 @@
 
 #### Basic implementation of orthogonal regression. For more details, see the [write up.](V1/Orthogonal_Regression_WriteUp.pdf)
 
-Done as an assignment for MEDP 7098 Radiation Research Technology and Methods
+Done as an assignment for MEDP 7098 Radiation Research Technology and Methods at LSU
 
 #### Author: Alexander Paul Torres
 #### Email: apault1@lsu.edu
